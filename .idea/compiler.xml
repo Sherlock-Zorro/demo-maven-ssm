@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-module01-web" />
+        <module name="demo-module06-generate" />
+        <module name="demo-module02-component" />
+        <module name="demo-module03-entity" />
+        <module name="demo-module04-util" />
+        <module name="demo-module05-environment" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

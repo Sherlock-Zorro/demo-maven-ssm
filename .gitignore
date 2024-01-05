@@ -1,0 +1,5 @@
+# Project exclude paths
+/demo-module01-web/target/
+/demo-module02-component/target/
+/demo-module03-entity/target/
+/demo-module04-util/target/
